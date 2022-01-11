@@ -1,0 +1,13 @@
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    /*background-position: 100% 25%; */
+
+    background-position: right center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#titulo-principal {
+    color: tomato;
+}
